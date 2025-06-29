@@ -23,6 +23,6 @@ portable health tech offers promising opportunities for early screening.
 <h4>ML Model Planning (In Progress)</h4><pre>Preparing feature set for classification: [age, BMI, pregnancies,
 temperature, hydration] - Training models (SVM, Random Forest) for probabilistic
 output - Evaluating with accuracy, ROC AUC, confusion matrix</pre>
-<h4>Hardware Simulation (Ongoing)</h4><pre>Simulating circuit in Proteus with signal generators for sensor inputs</pre>
+<h4>Hardware Simulation (Ongoing)</h4><pre>Simulating circuit with signal generators for sensor inputs</pre>
 Finalize and tune ML model using synthetic data - Deploy model on ESP32 or communicate with PC/mobile for inference - Begin real sensor integration and calibration
 <h2>Outcome Goal:</h2> A low-cost, user-friendly, non-invasive health screening prototype that uses multisensor fusion and machine learning to provide hydration status and diabetes risk insights
