@@ -1,4 +1,4 @@
-<h1>Non-Invasive Health Monitoring System for Hydration and Diabetes Risk Detection<br></h1>
+<h1>Non-Invasive Health Monitoring System for Hydration and Diabetes Risk Detection using Machine Learning and Sensor Fusion<br></h1>
 <br>
 <h2>Overview</h2> An interdisciplinary project that combines biosensor hardware, synthetic data generation,
 machine learning, and biomedical signal analysis to build a non-invasive health monitoring system
